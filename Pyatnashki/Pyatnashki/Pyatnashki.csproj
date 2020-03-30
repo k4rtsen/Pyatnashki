@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\empty.png" />
+    <None Remove="Images\i1.png" />
+    <None Remove="Images\i2.png" />
+    <None Remove="Images\i3.png" />
+    <None Remove="Images\i4.png" />
+    <None Remove="Images\i5.png" />
+    <None Remove="Images\i6.png" />
+    <None Remove="Images\i7.png" />
+    <None Remove="Images\i8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\empty.png" />
+    <EmbeddedResource Include="Images\i1.png" />
+    <EmbeddedResource Include="Images\i2.png" />
+    <EmbeddedResource Include="Images\i3.png" />
+    <EmbeddedResource Include="Images\i4.png" />
+    <EmbeddedResource Include="Images\i5.png" />
+    <EmbeddedResource Include="Images\i6.png" />
+    <EmbeddedResource Include="Images\i7.png" />
+    <EmbeddedResource Include="Images\i8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Finish.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Game.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PrepareToGame.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Result.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

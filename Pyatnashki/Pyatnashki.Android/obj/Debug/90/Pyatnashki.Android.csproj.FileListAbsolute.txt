@@ -1,0 +1,995 @@
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\build.props
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\adb.props
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.csprojAssemblyReference.cache
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resourcepaths.cache
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resourcecache.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res.flag
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\2EE628DEC66A44FA.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\6AA24717D36A59C2.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\7AB3FA32846A2D22.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A99B7496054CD259.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\D2EABEE3C20DBE3B.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\EE873BA3702F8AB4.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\660FE5315B2FB0C4.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\224B8AF84E2FADFC.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\FE968686272FFE54.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A536D6B08D093B5F.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\E172B97998092667.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\2EE628DEC66A44FA.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\6AA24717D36A59C2.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\7AB3FA32846A2D22.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A99B7496054CD259.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\D2EABEE3C20DBE3B.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\EE873BA3702F8AB4.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\660FE5315B2FB0C4.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\224B8AF84E2FADFC.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\FE968686272FFE54.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A536D6B08D093B5F.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\E172B97998092667.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\compiled.flata
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\R.txt
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\R.cs.flag
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.Android.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.Android.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki.apk
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki-Signed.aab
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki-Signed.apk
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\XamlC.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.csproj.CopyComplete
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.apk
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\base.zip
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.aab
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.apks
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\layout\tabbar.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\layout\toolbar.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\values\styles.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\values\colors.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\uploadflags.txt
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resolvedassemblies.hash
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\machine.config
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Android.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Security.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\mscorlib.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\mscorlib.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\netstandard.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.Android.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.Android.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Core.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Core.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Transactions.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\__environment__.txt
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\mono.android.jar
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\static.flag
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\buildid.txt
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.arm64-v8a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86_64.s
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\transition\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\design\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\compat\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64812d295696d85c27\MainActivity.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\packaged_resources
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\com\companyname\pyatnashki\R.java
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.arm64-v8a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86_64.o
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\classes.dex
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i8.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i1.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i2.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i3.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i4.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i5.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i6.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i7.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\izero.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i23.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i24.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i9.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i10.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i11.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i12.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i13.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i14.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i15.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i16.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i17.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i18.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i19.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i20.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i21.png
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i22.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.Android.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.Android.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki.apk
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki-Signed.aab
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\com.companyname.pyatnashki-Signed.apk
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\bin\Debug\Pyatnashki.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\build.props
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\adb.props
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.csprojAssemblyReference.cache
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res.flag
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\EF7AE427805DC177.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\AB3E8BEE955DDC4F.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\BB2F36CBC25DA8AF.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\6807B86F437B57D4.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\1376721A843A3BB6.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\2F1BF75A36180F39.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A79329C81D183549.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\E3D7460108182871.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\3F0A4A7F61187BD9.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\64AA1A49CB3EBED2.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\20EE7580DE3EA3EA.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\EF7AE427805DC177.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\AB3E8BEE955DDC4F.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\BB2F36CBC25DA8AF.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\6807B86F437B57D4.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\1376721A843A3BB6.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\2F1BF75A36180F39.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\A79329C81D183549.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\E3D7460108182871.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\3F0A4A7F61187BD9.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\64AA1A49CB3EBED2.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\20EE7580DE3EA3EA.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\R.txt
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\R.cs.flag
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.csproj.CopyComplete
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\Pyatnashki.Android.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.apk
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.aab
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\com.companyname.pyatnashki.apks
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i23.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i8.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\izero.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i1.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i2.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i3.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i4.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i5.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i6.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i7.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i24.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i9.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i10.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i11.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i12.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i13.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i14.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i15.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i16.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i17.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i18.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i19.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i20.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i21.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\res\drawable\i22.png
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.Android.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.Android.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Pyatnashki.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\__environment__.txt
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\static.flag
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\buildid.txt
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\crc64812d295696d85c27\MainActivity.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\src\com\companyname\pyatnashki\R.java
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Pyatnashki.MainPage">
+    <ContentPage.Content>
+        <StackLayout 
+            Orientation="Vertical"
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand"
+            BackgroundColor="#cc9a37">
+
+            <Label
+                Margin="0,40,0,0"                
+                HorizontalOptions="Center"
+                Text="Пятнашки"
+                FontSize="38"
+                TextColor="#FFFFFF"/>
+
+            <StackLayout
+                Orientation="Vertical"
+                VerticalOptions="EndAndExpand"
+                HorizontalOptions="FillAndExpand"
+                Margin="0,20,0,30">
+                <Button
+                x:Name="btn_start"
+                CornerRadius="20"
+                Text="Играть"
+                FontSize="24"
+                FontAttributes="Bold"
+                Margin="15,15,15,0"
+                TextColor="#cc9a37"
+                BackgroundColor="#FFFFFF"/>
+                <Button
+                x:Name="btn_result"
+                CornerRadius="20"
+                Text="Результаты"
+                FontSize="22"
+                FontAttributes="Bold"
+                Margin="15,15,15,0"
+                TextColor="#cc9a37"
+                BackgroundColor="#FFFFFF"/>
+                <Button
+                x:Name="btn_exit"
+                CornerRadius="20"
+                Text="Выход"
+                FontSize="22"
+                FontAttributes="Bold"
+                Margin="15,15,15,0"
+                TextColor="#cc9a37"
+                BackgroundColor="#FFFFFF"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

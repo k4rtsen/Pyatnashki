@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Pyatnashki.Result">
+    <ContentPage.Content>
+        <StackLayout 
+            Orientation="Vertical"
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand"
+            BackgroundColor="#cc9a37">
+
+            <Label
+                Margin="0,40,0,0"                
+                HorizontalOptions="Center"
+                Text="Результаты"
+                FontSize="38"
+                TextColor="#FFFFFF"/>
+
+            <StackLayout
+                Orientation="Vertical"
+                VerticalOptions="EndAndExpand"
+                HorizontalOptions="FillAndExpand"
+                Margin="0,20,0,30">
+                <Button
+                x:Name="btn_reset_result"
+                CornerRadius="20"
+                Text="Сбросить"
+                FontSize="22"
+                FontAttributes="Bold"
+                Margin="15,15,15,0"
+                TextColor="#cc9a37"
+                BackgroundColor="#FFFFFF"/>
+                <Button
+                x:Name="btn_done"
+                CornerRadius="20"
+                Text="Готово"
+                FontSize="22"
+                FontAttributes="Bold"
+                Margin="15,15,15,0"
+                TextColor="#cc9a37"
+                BackgroundColor="#FFFFFF"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

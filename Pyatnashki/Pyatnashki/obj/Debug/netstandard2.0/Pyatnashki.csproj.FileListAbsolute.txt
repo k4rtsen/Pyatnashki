@@ -1,0 +1,34 @@
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.deps.json
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\ref\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.csprojAssemblyReference.cache
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.AssemblyInfoInputs.cache
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.AssemblyInfo.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\ref\Pyatnashki.dll
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.pdb
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Finish.xaml.g.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Game.xaml.g.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\PrepareToGame.xaml.g.cs
+E:\Doc Stepan\Xamarin project\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Result.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.deps.json
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\ref\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\bin\Debug\netstandard2.0\Pyatnashki.pdb
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.csprojAssemblyReference.cache
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Finish.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Game.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\PrepareToGame.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Result.xaml.g.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.AssemblyInfoInputs.cache
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.AssemblyInfo.cs
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\ref\Pyatnashki.dll
+C:\Users\Karen\Downloads\Pyatnashki\Pyatnashki\Pyatnashki\obj\Debug\netstandard2.0\Pyatnashki.pdb
