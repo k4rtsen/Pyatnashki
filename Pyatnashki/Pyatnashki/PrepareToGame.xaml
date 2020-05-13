@@ -57,23 +57,23 @@
                 TextColor="#cc9a37"
                 BackgroundColor="#FFFFFF"/>
 
-                <StackLayout
-                Orientation="Horizontal"
+                <Picker
+                x:Name="picker_mode"
+                Margin="15,10,15,0"
+                FontSize="22"
                 HorizontalOptions="FillAndExpand"
-                Margin="25,10,25,0">
-                    <BoxView
-                    HorizontalOptions="StartAndExpand"
-                    WidthRequest="100"
-                    HeightRequest="100"
-                    BackgroundColor="red"
-                    />
-                    <BoxView
-                    HorizontalOptions="EndAndExpand"
-                    WidthRequest="100"
-                    HeightRequest="100"
-                    BackgroundColor="blue"
-                    />
-                </StackLayout>
+                BackgroundColor="#FFFFFF"
+                Title="Выберите режим"
+                FontAttributes="Bold"
+                SelectedIndexChanged="picker_mode_SelectedIndexChanged"
+                TitleColor="#cc9a37">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Classic</x:String>
+                            <x:String>Photo</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
 
             </StackLayout>            
 

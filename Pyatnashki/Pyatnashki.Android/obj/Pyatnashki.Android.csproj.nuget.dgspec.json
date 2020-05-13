@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj": {}
+    "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj": {
+    "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj",
+        "projectUniqueName": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj",
         "projectName": "Pyatnashki.Android",
-        "projectPath": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj",
-        "packagesPath": "C:\\Users\\Karen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\obj\\",
+        "projectPath": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\Pyatnashki.Android.csproj",
+        "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj": {
-                "projectPath": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj"
+              "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj": {
+                "projectPath": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj": {
+    "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj",
+        "projectUniqueName": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj",
         "projectName": "Pyatnashki",
-        "projectPath": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj",
-        "packagesPath": "C:\\Users\\Karen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karen\\Downloads\\Pyatnashki\\Pyatnashki\\Pyatnashki\\obj\\",
+        "projectPath": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\Pyatnashki.csproj",
+        "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Pyatnashki\\Pyatnashki\\Pyatnashki\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

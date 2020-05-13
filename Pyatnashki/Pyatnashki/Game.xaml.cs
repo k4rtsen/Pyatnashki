@@ -75,7 +75,7 @@ namespace Pyatnashki
             if (!mode) classicMode(lvl);
             else
             {
-                //photoMode(lvl);
+                photoMode(lvl);
             }
 
             Label label1 = new Label()
@@ -234,6 +234,33 @@ namespace Pyatnashki
         {
             int N = Sise * Sise;
             int ij = 0;
+            for (int i = 0; i < Sise; i++)
+            {
+                for (int j = 0; j < Sise; j++)
+                {
+                    grid.Children.Add(images[ij], j, i);
+                    ij++;
+                }
+            }
+        }
+
+        public void photoMode(int Sise)
+        {
+            Image image = new Image();
+            image.Source = new UriImageSource
+            {
+                Uri = new Uri("https://thispersondoesnotexist.com/image"),
+                CachingEnabled = false
+            };
+            int N = Sise * Sise;
+            int ij = 0;
+
+            for (int i = 0; i < N; i++)
+            {
+                //here image cropping
+                images[i] = image;
+            }
+
             for (int i = 0; i < Sise; i++)
             {
                 for (int j = 0; j < Sise; j++)

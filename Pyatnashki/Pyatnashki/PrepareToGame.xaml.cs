@@ -36,8 +36,8 @@ namespace Pyatnashki
         private async void Btn_start_Clicked(object sender, EventArgs e)
         {
             // Открыть Game
-            if (picker_size.SelectedIndex == -1)
-                await DisplayAlert("Нажмите ОК", "Пожалуйста выберите размер игрового поля", "ОК");
+            if (picker_size.SelectedIndex == -1 || picker_mode.SelectedIndex == -1)
+                await DisplayAlert("Нажмите ОК", "Пожалуйста задайте настройки игрового поля", "ОК");
             else await Navigation.PushAsync(new Game(this.lvl, this.mode));
         }
 
@@ -53,6 +53,19 @@ namespace Pyatnashki
                     break;
                 case 2:
                     lvl = 5;
+                    break;
+            }
+        }
+
+        private void picker_mode_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (picker_mode.SelectedIndex)
+            {
+                case 0:
+                    mode = false;
+                    break;
+                case 1:
+                    mode = true;
                     break;
             }
         }
